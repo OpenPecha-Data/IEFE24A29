@@ -1,0 +1,77 @@
+id: 5ec90ff47e424ab1b3cbb8d254a0fb41
+annotation_type: Commentary
+revision: '00001'
+annotations:
+  4d242b195f3d41f4a05b7a44b1d249ab:
+    span:
+      start: 226
+      end: 664
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  34d6f8fe75d54224b2a4aef0367dbcd7:
+    span:
+      start: 688
+      end: 933
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  f179591cd9c047f9b81a0bd5a1f8b015:
+    span:
+      start: 984
+      end: 5203
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  05f9bf323f604646aa4886761d2bb078:
+    span:
+      start: 5241
+      end: 6651
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  1eb9f217edf947ee8b4b4a0835e1a732:
+    span:
+      start: 6701
+      end: 7062
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  fe1f064609cd402683327fe1b39e6ad6:
+    span:
+      start: 7092
+      end: 7835
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  6db1d21d7db34e5ab0f29c482255a118:
+    span:
+      start: 7893
+      end: 8331
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  f3715443d9d045fd8a1a40ba28a5e61f:
+    span:
+      start: 8374
+      end: 12364
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+  4447e5feaf214c7bbb16fa2ecf2320c2:
+    span:
+      start: 12408
+      end: 12937
+    isverse: false
+    metadata:
+      css_class_name: tibetan-commentary-non-indent
+local_ids:
+  4d242b195f3d41f4a05b7a44b1d249ab: 200000
+  34d6f8fe75d54224b2a4aef0367dbcd7: 200001
+  f179591cd9c047f9b81a0bd5a1f8b015: 200002
+  05f9bf323f604646aa4886761d2bb078: 200003
+  1eb9f217edf947ee8b4b4a0835e1a732: 200004
+  fe1f064609cd402683327fe1b39e6ad6: 200005
+  6db1d21d7db34e5ab0f29c482255a118: 200006
+  f3715443d9d045fd8a1a40ba28a5e61f: 200007
+  4447e5feaf214c7bbb16fa2ecf2320c2: 200008

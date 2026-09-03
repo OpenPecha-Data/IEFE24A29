@@ -1,0 +1,23 @@
+id: IEFE24A29
+initial_creation_type: ebook
+source_metadata:
+  id: KS-GT-24
+  title: ༄༅། །རྒྱལ་བ་རྒོད་ཚང་པས་མཛད་པའི་ཕྱག་རྒྱ་ཆེན་པོའི་སྔོན་འགྲོ་མི་རྟག་པའི་བློ་བརྡེག་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། རྒྱལ་བ་རྒོད་ཚང་པ་མགོན་པོ་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། རྒྱལ་བ་རྒོད་ཚང་པ་མགོན་པོ་རྡོ་རྗེ།
+  sku: KS-GT-24
+  cover: KS_Gotshangpa_Series24.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །རྒྱལ་བ་རྒོད་ཚང་པས་མཛད་པའི་ཕྱག་རྒྱ་ཆེན་པོའི་སྔོན་འགྲོ་མི་རྟག་པའི་བློ་བརྡེག་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: KS-GT-24
+  cover: KS_Gotshangpa_Series24.jpg
+layers:
+- Author
+- BookTitle
+- Commentary
+- Sabche
